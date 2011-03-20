@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<categories>
+		<category>
+			<name>Agriculture</name>
+			<key>C1</key>
+			<categories>
+				<category>
+					<name>Agricultural Equipment</name>
+					<key>C101</key>
+					<categories>
+						<category>
+							<name>Agricultural Greenhouses</name>
+							<key>C10101</key>
+							<categories>
+							</categories>
+						</category>
+						<category>
+							<name>Aquacultural Equipment</name>
+							<key>C10102</key>
+							<categories>
+								<category>
+									<name>Aqualcultural Trap</name>
+									<key>C1010201</key>
+									<categories>
+									</categories>
+								</category>
+								<category>
+									<name>Fishing Float</name>
+									<key>C1010202</key>
+									<categories>
+									</categories>
+								</category>
+								<category>
+									<name>Fishing Net</name>
+									<key>C1010203</key>
+									<categories>
+									</categories>
+								</category>
+								<category>
+									<name>Fishing Rope</name>
+									<key>C1010204</key>
+									<categories>
+									</categories>
+								</category>
+								<category>
+									<name>Other Agricultural Equipments</name>
+									<key>C1010205</key>
+									<categories>
+									</categories>
+								</category>
+							</categories>
+						</category>
+						<category>
+							<name>Ear Tag</name>
+							<key>C10103</key>
+							<categories>
+							</categories>
+						</category>
+					</categories>
+				</category>
+				<category>
+					<name>Agricultural Growing Media</name>
+					<key>C102</key>
+					<categories>
+						<category>
+							<name>Peat</name>
+							<key>C10201</key>
+							<categories>
+							</categories>
+						</category>
+						<category>
+							<name>Perlite</name>
+							<key>C10202</key>
+							<categories>
+							</categories>
+						</category>
+					</categories>
+				</category>
+				<category>
+					<name>Agricultural Product Stock</name>
+					<key>C103</key>
+					<categories>
+					</categories>
+				</category>
+				<category>
+					<name>Agricultural Waste</name>
+					<key>C104</key>
+					<categories>
+					</categories>
+				</category>
+				<category>
+					<name>Agriculture and By-Product agents</name>
+					<key>C105</key>
+					<categories>
+					</categories>
+				</category>
+				<category>
+					<name>Agriculture Products Processing</name>
+					<key>C106</key>
+					<categories>
+					</categories>
+				</category>
+				<category>
+					<name>Agriculture Projects</name>
+					<key>C107</key>
+					<categories>
+					</categories>
+				</category>
+				<category>
+					<name>Animal Extract</name>
+					<key>C108</key>
+					<categories>
+					</categories>
+				</category>
+				<category>
+					<name>Animal Feed</name>
+					<key>C109</key>
+					<categories>
+					</categories>
+				</category>
+				<category>
+					<name>Animal Products</name>
+					<key>C110</key>
+					<categories>
+						<category>
+							<name>Eggs</name>
+							<key>C11001</key>
+							<categories>
+							</categories>
+						</category>
+						<category>
+							<name>Fowl and Livestock</name>
+							<key>C11002</key>
+							<categories>
+							</categories>
+						</category>
+					</categories>
+				</category>
+				<category>
+					<name>Bamboo Raw Materials</name>
+					<key>C111</key>
+					<categories>
+					</categories>
+				</category>
+				<category>
+					<name>Bean-like seeds</name>
+					<key>C112</key>
+					<categories>
+						<category>
+							<name>Cacao</name>
+							<key>C11201</key>
+							<categories>
+							</categories>
+						</category>
+						<category>
+							<name>Coffee Beans</name>
+							<key>C11202</key>
+							<categories>
+							</categories>
+						</category>
+						<category>
+							<name>Vanilla Beans</name>
+							<key>C11203</key>
+							<categories>
+							</categories>
+						</category>
+					</categories>
+				</category>
+				<category>
+					<name>Beans</name>
+					<key>C113</key>
+					<categories>
+						<category>
+							<name>Broad Beans</name>
+							<key>C11301</key>
+							<categories>
+							</categories>
+						</category>
+						<category>
+							<name>Butter Beans</name>
+							<key>C11302</key>
+							<categories>
+							</categories>
+						</category>
+						<category>
+							<name>Chickpeas</name>
+							<key>C11303</key>
+							<categories>
+							</categories>
+						</category>
+						<category>
+							<name>Kidney Beans</name>
+							<key>C11304</key>
+							<categories>
+							</categories>
+						</category>
+						<category>
+							<name>Lentils</name>
+							<key>C11305</key>
+							<categories>
+							</categories>
+						</category>
+						<category>
+							<name>Lima Beans</name>
+							<key>C11306</key>
+							<categories>
+							</categories>
+						</category>
+						<category>
+							<name>Other Beans</name>
+							<key>C11307</key>
+							<categories>
+							</categories>
+						</category>
+						<category>
+							<name>Peas</name>
+							<key>C11308</key>
+							<categories>
+							</categories>
+						</category>
+						<category>
+							<name>Soyabeans</name>
+							<key>C11309</key>
+							<categories>
+							</categories>
+						</category>
+						<category>
+							<name>Vigna Beans</name>
+							<key>C11310</key>
+							<categories>
+							</categories>
+						</category>
+					</categories>
+				</category>
+			</categories>
+		</category>
+	</categories>

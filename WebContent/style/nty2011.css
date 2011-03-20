@@ -1,0 +1,488 @@
+html, div, p, form, fieldset, h1, h2, h3, h4, h5, h6{ 
+	margin: 0; 
+	padding: 0; 
+}
+
+body{
+	margin: 0; 
+	padding: 0; 
+	background-color: gray;	
+	color:#fff;		
+}
+
+#container{
+	width: 1024px;	
+	margin:auto;
+	background-color: purple;
+	font-family: arial;
+	font-size: 14px;
+	line-height: 16px;
+}
+
+#header{
+	height:306px;
+}
+
+#logo{
+	align:left;
+	position: relative;
+	width:153px;
+	height:109px;
+	top:55px;
+	left:20px;
+	z-index: 1;
+}
+
+#banner{
+	position: relative;
+	top:-109px;
+	left:0px;
+}
+
+#menu-nav{
+	position: relative;
+	top:-470px;
+	left:0px;
+	padding:20px;
+	background-image: url(http://www.icloudtech.com/resources/nty2011/images/translucent-dot.png);
+	background-repeat: repeat;
+	z-index: 1;
+}
+
+#menu-nav ul{
+	margin-left: 0;
+	padding-left: 0;
+	display: inline;
+}
+
+#menu-nav ul li{
+	padding:10px;
+	margin-left: 0;
+	display: inline;
+}
+
+#menu-nav ul li a{
+	color:#fff;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+#menu-nav ul li a:hover{
+	color:#F39A08;
+}
+
+#header #search-box{
+	position:relative;
+	top:-522px;
+	left:710px;
+	text-align: right;
+	padding: 10px;
+	z-index: 1;
+	background-image: url(http://www.icloudtech.com/resources/nty2011/images/translucent-dot.png);
+	background-repeat: repeat;
+	width:286px;
+}
+
+#header #search-box #search{
+	background-image:url(http://www.icloudtech.com/resources/nty2011/images/search-box.png); 
+	background-repeat:no-repeat; 
+	width:254px; 
+	height:24px; 
+	border:none; 
+	background-color:transparent; 
+	text-align:right;
+	color:#fff;
+	font-weight: bold;
+}
+
+#body-container{
+	position:relative;
+	background-image: url(http://www.icloudtech.com/resources/nty2011/images/translucent-dot.png);
+	background-repeat: repeat;
+	left:0px;
+	top:0px;
+	padding:34px 0px 20px 0px;	
+}
+
+#category-list{
+	position: relative;
+	float:left;
+	width:250px;
+	top:20px;
+	background-image: url(http://www.icloudtech.com/resources/nty2011/images/translucent-dot.png);
+	background-repeat: repeat;
+	min-height: 400px;
+}
+
+#category-list ul{
+}
+
+#category-list ul li{
+	padding: 6px 0px 6px 0px;
+	list-style: none;
+}
+
+#category-list ul li a{
+	color:#fff;
+	text-decoration: none;
+	font-size: 14px;
+}
+
+#category-list ul li a:hover{
+	color:#F39A08;
+	width:240px;
+	font-weight: bolder;
+}
+
+#body-content{
+	position:relative;
+	float:left;
+	width:774px;
+	padding-top:30px;
+}
+
+#body-data{	
+	padding:10px;
+	position:relative;
+	float: left;
+	width:754px;
+}
+
+#home-page-description{
+	position:relative;
+	float: left;
+	width:754px;
+	text-align: justify;
+	padding:10px;
+}
+
+#title-bar{
+	position:relative;
+	float: left;
+	width:754px;
+	padding:10px;
+	color:#F39A08;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+#products{
+	position:relative;
+	top:30px;
+}
+
+#product{
+	position:relative;
+	float:left;	
+	width:184px;
+	height:184px;
+}
+
+#product #code{
+	display:none;	
+}
+
+#product #companyname{
+	text-align: center;
+	font-size: 11px;
+	position:absolute;
+	width:184px;
+	top:158px;
+	color:#fff;
+}
+
+#product #companyname a{
+	color:#fff;
+}
+
+#product #companyname a:hover{
+}
+
+#product #currency{
+	display:none;	
+}
+
+#product #description{
+	display:none;	
+}
+
+#product #imageurl{	
+	text-align: center;
+	padding:5px;
+}
+
+#product #imageurl img{
+	max-width: 140px;
+	max-height: 140px;
+}
+
+#product #name{	
+	text-align: center;
+	font-size: 11px;
+	position:absolute;
+	width:184px;
+	top:142px;
+}
+
+#product #name a{	
+	color:#F39A08;
+	text-decoration: none;
+	font-weight:bold;
+}
+
+#product #name a:hover{
+	color:#fff;	
+	background-image: url(http://www.icloudtech.com/resources/nty2011/images/translucent-white.png);
+	background-repeat: repeat;
+	padding:3px 5px;
+	
+}
+
+#product #price{
+	display:none;	
+}
+
+#product #siteurl{
+	display:none;	
+}
+
+#product #code{
+	display:none;	
+}
+
+#body-data{
+	position:relative;
+	float: left;
+	width:754px;
+	padding:10px;
+}
+
+#search-info{
+	position:relative;
+	color:#fff;
+	width:754px;
+}
+
+#search-keyword-text{
+	position:relative;
+	top:0px;
+	left:0px;
+	color:#F39A08;
+	font-weight: bold;
+}
+
+#search-keyword{
+	position:relative;
+	top:-16px;
+	left:72px;
+	font-weight: bold;
+}
+
+#search-category-trail{
+	position:relative;
+	left:0px;
+	font-weight: bold;
+}
+
+#search-keyword-text{
+	position:relative;
+	top:0px;
+	left:0px;
+	font-weight: bold;
+	color:#F39A08;
+}
+
+#intermediate-category{
+}
+
+#search-category-trail a{
+	position:relative;
+	top:-16px;
+	left:72px;
+	font-weight: bold;
+	color:#fff;
+	text-decoration: none;
+	padding:2px 6px;
+}
+
+#search-category-trail a:hover{
+	color:#fff;
+	background-image: url(http://www.icloudtech.com/resources/nty2011/images/translucent-white.png);
+	background-repeat: repeat;
+	padding:2px 6px;
+}
+
+#vendors{
+	position:relative;
+	text-align: left;
+	width:754px;
+	line-height: 28px;
+}
+
+#vendor-list-title{
+	background-image: url(http://www.icloudtech.com/resources/nty2011/images/translucent-dot.png);
+	background-repeat: repeat;
+	color:#F39A08;
+	font-weight: bold;
+}
+
+#title-rowno{
+	position:relative;
+	float:left;
+	width:36px;
+}
+
+#title-featured{
+	position:relative;
+	float:left;
+	width:104px;
+}
+
+#title-company{
+	position:relative;
+	float:left;
+	width:360px;
+}
+
+#title-country{
+	position:relative;
+	float:left;
+	width:154px;
+}
+
+#title-productcount{
+	position:relative;
+	float:left;
+	width:100px;
+}
+
+#vendor{
+	position:relative;
+	width:754px;
+}
+
+#value-rowno{
+	position:relative;
+	float:left;
+	width:36px;
+}
+
+#value-featured{
+	position:relative;
+	float:left;
+	width:104px;
+}
+
+#value-company{
+	position:relative;
+	float:left;
+	width:360px;
+}
+
+#value-company a{
+	color:#fff;
+}
+
+#value-company a:hover{
+	text-decoration: none;
+}
+
+#value-country{
+	position:relative;
+	float:left;
+	width:154px;
+}
+
+#value-productcount{
+	position:relative;
+	float:left;
+	width:100px;
+}
+
+#value-productcount a{
+	color:#fff;
+}
+
+#value-productcount a:hover{
+	text-decoration: none;
+}
+
+#total-vendor-count{
+	position:relative;
+	float:left;
+	width:754px;
+	background-image: url(http://www.icloudtech.com/resources/nty2011/images/translucent-dot.png);
+	background-repeat: repeat;
+	width:140px;
+	padding:5px;
+}
+#total-vendor-count span{
+	color:#F39A08;
+	font-weight: bold;
+}
+
+#total-product-count{
+	position:relative;
+	float:left;
+	width:754px;
+	background-image: url(http://www.icloudtech.com/resources/nty2011/images/translucent-dot.png);
+	background-repeat: repeat;
+	width:140px;
+	padding:5px;
+}
+#total-product-count span{
+	color:#F39A08;
+	font-weight: bold;
+}
+
+#intermediate-category{
+}
+
+#intermediate-category a{
+}
+
+#pageno-list{
+	position:relative;
+	top:60px;
+	width:754px;
+	text-align: center;
+	padding-bottom: 100px;
+}
+
+#pageno-list #pageno-label{
+	position:relative;
+	float:left;	
+	width:64px;
+	text-align: left;
+	font-weight: bold;
+	color:#F39A08;
+}
+
+#pageno-list #pageno-current{
+	position:relative;
+	float:left;	
+	width:24px;
+	text-align: center;
+	font-weight: bold;
+	color:#F39A08;
+}
+
+#pageno-list #pageno-other{
+	position:relative;
+	float:left;	
+	width:24px;
+	text-align: center;
+}
+
+#pageno-list #pageno-other a{
+	font-weight: bold;
+	color:#fff;
+}
+
+#pageno-list #pageno-other a:hover{
+}
+
+#clear{
+	clear: both;
+}

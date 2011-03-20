@@ -1,0 +1,100 @@
+/* CSS Document */
+body{ margin:0; padding:0; font-family:Arial, Helvetica, sans-serif; }
+
+#wrapper{ width:800px; height:auto; margin:0 auto; padding:0; text-align:center; }
+
+#header{ width:100%; height:80px; padding:0 0 0 0;}
+#header img{ border:none;}
+
+#navbar{ background-image:url(../images/oe_nav_bg.jpg); background-repeat:repeat-x; width:100%; height:30px; padding:0; margin:0; }
+
+* html #navbar{ border:solid 4px #4140c0; border-bottom:none; border-top:none; width:792px; }
+
+
+#navbar ul{ padding:0 0 0 0px; margin:0 0 0 5px;  }
+#navbar li{ margin:0; padding:5px 0 0 0px; list-style:none; float:left; color:#FFFFFF; }
+#navbar li a{ text-decoration:none; color:#ffffff; font-size:13px; font-weight:600; padding:0 5px ; margin:0;}
+
+#navbar #go { float:right; padding:2px 6px 0 0;}
+
+#navbar #oo li{ margin:5px 0 0 0; padding:0px 0 0 0; list-style:none; float:left; color:#FFFFFF; }
+
+#right{ width:68%; float:left; text-align:left;  float:right; padding-top:0px; _padding-top:5px; margin-right:5px}
+#right h2{ color:#333333; text-align:center;}
+#right li { text-align:left; line-height:18px; margin-bottom:10px;}
+#right li a{ color:#660066; text-decoration:underline; font-weight:bold;}
+
+#left{ width:30%; float:left; clear:left; padding-top:25px; margin-right:5px;}
+
+#content_lower{ clear:both; margin:10px 0 0 0; padding:25px 0 0 0;}
+#content_lower a{ color:#FF6600; text-decoration:none; }
+
+#footer{  background-image:url(../images/oe_footer_bg.jpg); width:100%; height:20px; padding:5px 0 0 0; margin:0 0 0 0; font-size:12px; color:#ffffff; clear:both; position:relative; z-index:1; }
+#footer a{  font-size:12px; text-decoration:underline;}
+
+#content, .about{ padding:10px 10px 35px 10px; border:solid 4px #4140c0; border-bottom:none; border-top:none; font-size:17px; line-height:20px; }
+#content h2, h4{ color:#333333;}
+#content ul{ padding-bottom:0; margin:0; padding-left:50px; }
+#content li{ text-align:left; line-height:24px; list-style-position:outside;  }
+#content li a{ color:#660066; text-decoration:underline;}
+#content p{ text-align:left; }
+#content a{ color:#660066; text-decoration:underline;}
+#right p a{color:#660066; text-decoration:underline;}
+#right li { text-align:left; line-height:18px; margin-bottom:10px;}
+
+.about li{text-align:left; line-height:18px; list-style:disc; list-style-position:outside;}
+
+#content #navtop{ width:95%; padding:10px 0 0 0; margin:0; float:right; clear:both; text-align:right; font-size:11px }
+#content #navbtn{ width:95%; padding:0 0 10px 0; margin:0; float:right; clear:both; text-align:right; font-size:11px }
+
+
+#sddm
+{	margin: 0;
+	padding: 0;
+	}
+
+#sddm li
+{	margin: 0;
+	padding: 0;
+	list-style: none;
+	float:left;
+	font: bold 11px arial}
+
+#sddm li a
+{	display: block;
+	margin: 0 1px 0 0;
+	padding: 0px 28px;
+	width: 60px;
+	
+	color:#0000;
+	text-align: center;
+	text-decoration: none}
+
+#sddm li a:hover
+{ }
+
+#sddm div
+{	position: absolute;
+	visibility: hidden;
+	margin: 0;
+	padding: 0;
+	background:ffffff;
+	border: 1px solid #5970B2; z-index:99; }
+
+	#sddm div a
+	{	position: relative;
+		display: block;
+		margin: 0;
+		padding: 1px 5px;
+		width: auto;
+		white-space: nowrap;
+		text-align: left;
+		text-decoration: none;
+		background: #ffffff;
+		color: #2875DE;
+		font: 11px arial}
+
+	#sddm div a:hover
+	{	background: #bce5f2;
+		color: #FFF}
+#m1, #m2{ width:150px; }

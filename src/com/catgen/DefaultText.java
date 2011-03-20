@@ -1,0 +1,14 @@
+package com.catgen;
+//NMMS Changes [Registration and Login] : March 2010
+public class DefaultText {
+	public static final String PAGE1_NAME = "Info";
+	public static final String PAGE1_DESC = "This is a dummy PAGE(and can be updated or deleted as required). Any number of pages can be created. Pages allow Network Markets to provide additional informations in addition to those in the homepage.";
+	
+	public static final String CAT_KEY = "";
+	public static final String CAT_VALUE = "All Categories";
+	
+	public static final String DEFAULT_TEMPLATE = "[standard]";
+	public static final String DEFAULT_LOGOIMAGE = "<img src=\"../images/common/default_logo.jpg\" border=\"0\">";
+	public static final String DEFAULT_HEADER = "<img src=\"../images/common/default_header.jpg\" border=\"0\">";
+	public static final String DEFAULT_DESC = "<h2>Welcome!</h2><br/>Thank You for registering with OpenEntry.com<br/><br/>OpenEntry is a wholly owned initiative of PEOPLink, a 501(c)(3) non-profit organization. PEOPLink was founded by Dr. Daniel Salcedo with the mission of helping artisans and small and medium enterprises (SMEs) in developing countries to benefit from the exciting new opportunities opened up by the explosion of the Internet. It was based on his pioneering 1978 founding of the fair trade mail order catalog Pueblo to People.<br/><br/>OpenEntry makes it easy for any business network to use its high profile brand to generate the credibility and trust that their members find impossible to achieve on their own, one-by-one. This service is important for both small and large enterprises. OpenEntry does this by aggregating all the web catalogs of the members of a business network into a branded on-line network market containing all the offerings of all its members. These network markets typically contain thousands of products and services offered by hundreds of participating merchants. Potential buyers can browse by country, category, price, key word, or other fields. When they click on the thumbnail image of an item that interests them, it takes them directly to the product page on the catalog of the merchant where they can consummate the transaction.<br/><br/><b>How to Start?</b><br/>This Network Market webpage can be customized to your need. You can:<br/>- Change the logo and banner to represent yourself.<br/>- Customize the look and feel of the webpage.<br/>- Add vendors and their products. Vendors will benefit by referral from this website to theirs.<br/>- Add various pages to share various information.<br/>- Integrate Category, Country, Price and text-based search as per your requirement.<br/>- Customize the website in various languages.<br/>- Feature products of various vendors, possibly for a charge.<br/>- And more!<br/>Happy Network Marketing.<br/><br/><br/>";
+}
